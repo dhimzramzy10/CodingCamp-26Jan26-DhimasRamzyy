@@ -1,0 +1,21 @@
+.logo {
+    height: 50px;
+    width: 50px;
+    background-color: darkgrey;
+    border-radius: 50%;
+    background-image: url(https://picsum.photos/200);
+    background-size: cover;
+}
+
+.avatar {
+  vertical-align: middle;
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+}
+
+.main-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
